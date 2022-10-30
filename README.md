@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FACUDO
+- 👋 Hi, I’m @Marco Azevedo
 - 👀 I’m interested in knowledge
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
